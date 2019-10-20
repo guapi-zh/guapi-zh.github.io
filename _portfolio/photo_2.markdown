@@ -2,7 +2,7 @@
 layout: post
 title: Hej!
 description: More and more!
-img: /img/191020/12.jpeg
+img: /img/191020/12-cover.jpeg
 ---
 
 
