@@ -7,15 +7,15 @@ description: Introduction!
 I was born in Gothenburg, Sweden and my birthday is 2019-08-21. I have British shorthair, Chinchilla and Persian bloodline :)
 
 <div class="img_row">
-	<img class="col three" src="/img/191020/1.jpeg" style="height:150%">
+	<img class="col three" src="/img/191020/1.jpeg">
 </div>
 
 <div class="img_row">
-	<img class="col three" src="/img/191020/2.jpeg" style="height:150%">
+	<img class="col three" src="/img/191020/2.jpeg">
 </div>
 
 <div class="img_row">
-	<img class="col three" src="/img/191020/3.jpeg" style="height:150%">
+	<img class="col three" src="/img/191020/3.jpeg">
 </div>
 
 <div class="col three caption">
