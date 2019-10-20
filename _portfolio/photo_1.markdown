@@ -2,7 +2,7 @@
 layout: post
 title: My recent photos
 description: Look at me and then fall in love :)
-img: /img/191020/9_cover.jpeg
+img: /img/191020/9-cover.jpeg
 ---
 
 
