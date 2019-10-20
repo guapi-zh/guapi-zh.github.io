@@ -1,0 +1,28 @@
+---
+layout: post
+title:  My name is Guapi!
+date: 2019-10-20 18:00:00
+description: Introduction!
+---
+I was born in Gothenburg, Sweden and my birthday is 2019-08-21. I have British shorthair, Chinchilla and Persian bloodline :)
+
+<div class="img_row">
+	<img class="col three" src="/img/191020/1.jpeg">
+</div>
+
+<div class="img_row">
+	<img class="col three" src="/img/191020/2.jpeg">
+</div>
+
+<div class="img_row">
+	<img class="col three" src="/img/191020/3.jpeg">
+</div>
+
+<div class="col three caption">
+	RUA!
+</div>
+
+You can see more picture in <a href="https://guapi-zh.github.io/portfolio/" target="blank">portfolio</a>!
+
+
+<iframe src="//player.bilibili.com/player.html?aid=70970410&cid=122970751&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

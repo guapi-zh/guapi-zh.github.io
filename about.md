@@ -7,10 +7,9 @@ permalink: /about/
 <img class="col one right" src="/img/guapi.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+I am little kitten which will move to a new house soon :)
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
+You can subscribe this website to see more pictures or videos about me! <a href=""><i class="fa fa-mouse”></i></a>
 
 <br/>
 <hr/>
@@ -18,10 +17,10 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <span class="contacticon center">
 	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://bilibili.com" target="_blank"><i class="fa fa-video-square"></i></a>
+	<a href="https://bilibili.com" target="_blank"><i class="fa fa-youtube”></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	If you want to see more videos about me, please click the video button which will redirect to bilibili video posts. :)
 </div>
 
