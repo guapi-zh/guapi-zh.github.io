@@ -25,4 +25,4 @@ I was born in Gothenburg, Sweden and my birthday is 2019-08-21. I have British s
 You can see more picture in <a href="https://guapi-zh.github.io/portfolio/" target="blank">portfolio</a>!
 
 
-<iframe src="//player.bilibili.com/player.html?aid=51071276&cid=89417785&page=1" scrolling="yes" border="0" frameborder="yes" framespacing="0" allowfullscreen="true" height=“300%" width="100%"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=51071276&cid=89417785&page=1" scrolling="yes" border="0" frameborder="yes" framespacing="0" allowfullscreen="true" height="300%" width="100%"> </iframe>
