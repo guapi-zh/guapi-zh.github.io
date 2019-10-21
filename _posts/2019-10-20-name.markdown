@@ -26,3 +26,7 @@ You can see more picture in <a href="https://guapi-zh.github.io/portfolio/" targ
 
 
 <iframe src="//player.bilibili.com/player.html?aid=51071276&cid=89417785&page=1" scrolling="yes" border="0" frameborder="yes" framespacing="0" allowfullscreen="true" height="300px" width="100%" webkitallowfullscreen="true" mozallowfullscreen="true"> </iframe>
+
+<div class="col three caption">
+	This is a test video which is hosted on bilibili. Video is from &#169;creamheroes.
+</div>
