@@ -7,7 +7,7 @@ img: /img/191028/2.jpeg
 
 
 
-<div class="img_row" style="height: 700px;">
+<div class="img_row" style="height: 900px;">
 	<img class="col three" src="{{ site.baseurl }}/img/191028/1.jpeg" alt="" title=""/>
 </div>
 
@@ -15,7 +15,7 @@ img: /img/191028/2.jpeg
 	Me and my Mom!
 </div>
 
-<div class="img_row" style="height: 700px;">
+<div class="img_row" style="height: 900px;">
 	<img class="col three" src="{{ site.baseurl }}/img/191028/2.jpeg" alt="" title=""/>
 </div>
 
