@@ -6,15 +6,15 @@ description: Happy life
 ---
 
 
-<div class="img_row">
+<div class="img_row" style="height: 900px;">
 	<img class="col three" src="/img/191222/1.jpeg">
 </div>
 
-<div class="img_row">
+<div class="img_row" style="height: 900px;">
 	<img class="col three" src="/img/191222/2.jpeg">
 </div>
 
-<div class="img_row">
+<div class="img_row" style="height: 900px;">
 	<img class="col three" src="/img/191222/3.jpeg">
 </div>
 
