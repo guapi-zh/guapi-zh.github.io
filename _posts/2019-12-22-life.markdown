@@ -1,0 +1,23 @@
+---
+layout: post
+title:  My Life!
+date: 2019-12-22 18:00:00
+description: Happy life
+---
+
+
+<div class="img_row">
+	<img class="col three" src="/img/191222/1.jpeg">
+</div>
+
+<div class="img_row">
+	<img class="col three" src="/img/191222/2.jpeg">
+</div>
+
+<div class="img_row">
+	<img class="col three" src="/img/191222/3.jpeg">
+</div>
+
+<div class="col three caption">
+	RUA!
+</div>
